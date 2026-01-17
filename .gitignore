@@ -1,0 +1,9 @@
+# Dataset
+*.csv
+
+# Model files
+*.pkl
+
+# Virtual environment
+venv/
+__pycache__/
